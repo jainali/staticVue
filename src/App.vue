@@ -1,5 +1,6 @@
 <template>
   <div>{{ message }}</div>
+  <div><a href="/.auth/login/github">Login</a></div>
 </template>
 
 <script>
